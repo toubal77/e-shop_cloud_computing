@@ -20,22 +20,22 @@
 
       <div class="box">
          <h3>contact us</h3>
-         <a href="tel:213 6678765341"><i class="fas fa-phone"></i> +213 6678765341</a>
-         <a href="tel:213 545657870"><i class="fas fa-phone"></i> +213 545657870</a>
-         <a href="mailto:tech_info@gmail.com"><i class="fas fa-envelope"></i> tech_info@gmail.com</a>
-         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> oran algerie  </a>
+         <a href="tel:213 659185831"><i class="fas fa-phone"></i> +213 659185831</a>
+         <a href="mailto:toubalzineddine77@gmail.com"><i class="fas fa-envelope"></i> toubalzineddine77@gmail.com</a>
+         <a href="mailto:toubal.technologies@gmail.com"><i class="fas fa-envelope"></i> toubal.technologies@gmail.com</a>
+         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> oran algerie</a>
       </div>
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"><i class="fab fa-facebook-f"></i>facebook</a>
-         <a href="#"><i class="fab fa-twitter"></i>twitter</a>
-         <a href="#"><i class="fab fa-instagram"></i>instagram</a>
-         <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
+         <a href="https://www.facebook.com/toubalzineddine"><i class="fab fa-facebook-f"></i>facebook</a>
+         <a href="https://www.freelancer.com/u/toubalzineddine7"><i class="fab fa-twitter"></i>freelancer</a>
+         <a href="https://www.instagram.com/toubalzino?igshid=ZDdkNTZiNTM="><i class="fab fa-instagram"></i>instagram</a>
+         <a href="https://www.linkedin.com/in/zine-eddine-t-518a0a176"><i class="fab fa-linkedin"></i>linkedin</a>
       </div>
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>mr.Oulladi designer</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>Toubal Zine-Eddine</span> | all rights reserved!</div>
 
 </footer>
